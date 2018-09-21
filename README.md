@@ -6,14 +6,24 @@
 
 受到[传承&交大](http://share.sjtu.edu.cn)和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)的启发，我决定建立一个这样的平台供大家自由地分享和使用课程资料。
 
-##内容
-- 课件
-- 电子书
-- 试卷
+##目录
+- 计算机
+ - CS222 算法分析与设计
+ - CS385 机器学习
+ - EI338 计算机系统工程
+ - EI339 人工智能
+ - CS258 信息论
+
+- 数学
+ - MA357 数理统计
+ - X071571 最优化方法
+ - MA26035 **测度与概率论** (**进行中**)
+ - X071565 **应用随机过程** (**进行中**)
+
+## 友情链接
+- [教学信息服务网](http://electsys.sjtu.edu.cn)
+- [研究生数学课程网站](http://math.sjtu.edu.cn/course/Ngraduate/)
+- [研究生网上选课信息](http://www.yjs.sjtu.edu.cn:81/epstar/web/outer/KKBJ_CX/kkbj.jsp)
 
 ##贡献 
 欢迎大家分享课程资料, 以及理性讨论和评价课程.
-
-## 友情链接
-
-##说明

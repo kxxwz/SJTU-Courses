@@ -1,0 +1,7 @@
+- 讲师: Victor Mouquin
+- 学分: 3
+- 学期: 研究生公共课程
+- 网站: http://math.sjtu.edu.cn/faculty/victorm/X071571.html
+- 教材:
+ - Convex Optimization (主要)
+ - Numerical Optimization
