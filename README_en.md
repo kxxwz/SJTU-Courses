@@ -34,4 +34,4 @@ We often need to refer to a lot of information during the period in university w
 
 Welcome to share your course materials and your rational discussions and evaluations.
 
-For Chinese version, please refer to [README](https://github.com/CoolPhilChen/SJTU-Courses) (中文版本请点击[README](https://github.com/CoolPhilChen/SJTU-Courses)).
+For Chinese version, please refer to [README](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README.md) (中文版本请点击[README](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README.md)).
