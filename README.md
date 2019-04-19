@@ -35,4 +35,4 @@
 ## 贡献 
 欢迎大家分享课程资料, 以及理性讨论和评价课程.
 
-英文版本请点击[README_en](https://github.com/CoolPhilChen/SJTU-Courses/README_en.md)(For English version, please refer to [README_en](https://github.com/CoolPhilChen/SJTU-Courses/README_en.md))。
+英文版本请点击[README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md)(For English version, please refer to [README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md))。
