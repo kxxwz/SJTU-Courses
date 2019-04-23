@@ -8,31 +8,51 @@
 受到[传承&交大](http://share.sjtu.edu.cn)和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)的启发，我决定建立一个这样的平台供大家自由地分享和使用课程资料。
 
 ## 目录
+- CS125 程序设计
+- CS221 数据结构
+- CS222 算法分析与设计
+- CS258 信息论
+- CS385 机器学习
+- EI331 信号与系统
+- EI332 计算机组成
+- EI338 计算机系统工程
+- EI339 人工智能
+- SE305 数据库技术
+- EI374 高级算法
+- MA357 数理统计
+- X071571 最优化方法
 
-- 计算机
-  - CS125 程序设计
-  - CS221 数据结构
-  - CS222 算法分析与设计
-  - CS258 信息论
-  - CS385 机器学习
-  - EI331 信号与系统
-  - EI332 计算机组成
-  - EI338 计算机系统工程
-  - EI339 人工智能
-  - SE305 数据库技术
-  - EI374 高级算法
+## 下载
+你当然可以克隆或者下载整个项目, 但因为整个项目较大, 可能对于一部分人不太方便. 这里对于使用Chrome和Firefox的用户, 我们推荐一个[Chrome插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和[Firefox插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/), GitZip. 该插件可以让我们只下载项目中的某一个文件夹, 也就是某一门课程的资料. 
 
-- 数学
-  - MA357 数理统计
-  - X071571 最优化方法
-  - MA26035 测度与概率论
+
+## 贡献 
+**只有大家踊跃贡献, 本项目才能更好的维持下去. 欢迎大家分享课程资料, 以及理性讨论和评价课程.** 
+
+贡献方式:
+
+1. Fork本项目, 提交Pull Request.
+2. 或直接附加在Issue中, 由维护者进行添加.
+3. 或发送邮件至sjtucourses@outlook.com, 由维护者进行添加.
+4. 后续也许还会开发更加方便的贡献方式.
+
+**想参与本项目维护工作的交大同学们, 欢迎发送邮件至sjtucourses@outlook.com**
+
+
+## 免责声明
+- 本项目建立的初衷是为了方便同学们更好地学习相关课程. **严禁用于任何商业用途!**
+- **如果本项目有任何侵权行为, 请提Issue或发送邮件至sjtucourses@outlook.com, 我们将在第一时间进行回复和处理.**
+
+
+## 其他
+- 英文版本请点击[README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md) (For English version, please refer to [README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md)).
 
 ## 友情链接
 - [教学信息服务网](http://electsys.sjtu.edu.cn)
 - [研究生数学课程网站](http://math.sjtu.edu.cn/course/Ngraduate/)
 - [研究生网上选课信息](http://www.yjs.sjtu.edu.cn:81/epstar/web/outer/KKBJ_CX/kkbj.jsp)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [北大课程资料民间整理](https://github.com/lib-pku/libpku)
 
-## 贡献 
-欢迎大家分享课程资料, 以及理性讨论和评价课程.
-
-英文版本请点击[README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md)(For English version, please refer to [README_en](https://github.com/CoolPhilChen/SJTU-Courses/blob/master/README_en.md))。
+## 联系方式
+sjtucourses@outlook.com
