@@ -40,15 +40,15 @@
 
 1. Fork本项目, 提交Pull Request.
 2. 或直接附加在Issue中, 由维护者进行添加.
-3. 或发送邮件至sjtucourses@outlook.com, 由维护者进行添加.
+3. 或发送邮件至sjtu.courses@outlook.com, 由维护者进行添加.
 4. 后续也许还会开发更加方便的贡献方式.
 
-**想参与本项目维护工作的交大同学们, 欢迎发送邮件至sjtucourses@outlook.com**
+**想参与本项目维护工作的交大同学们, 欢迎发送邮件至sjtu.courses@outlook.com**
 
 
 ## 免责声明
 - 本项目建立的初衷是为了方便同学们更好地学习相关课程. **严禁用于任何商业用途!**
-- **如果本项目有任何侵权行为, 请提Issue或发送邮件至sjtucourses@outlook.com, 我们将在第一时间进行回复和处理.**
+- **如果本项目有任何侵权行为, 请提Issue或发送邮件至sjtu.courses@outlook.com, 我们将在第一时间进行回复和处理.**
 
 
 ## 其他
@@ -62,4 +62,4 @@
 - [北大课程资料民间整理](https://github.com/lib-pku/libpku)
 
 ## 联系方式
-sjtucourses@outlook.com
+sjtu.courses@outlook.com
