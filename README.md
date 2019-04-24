@@ -1,9 +1,10 @@
 # 上海交通大学课程分享
 
-[![](https://img.shields.io/badge/watchers-176-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/watchers)
-[![](https://img.shields.io/badge/stars-3k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/stargazers)
-[![](https://img.shields.io/badge/forks-1k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/network/members)
-![](https://img.shields.io/badge/repo%20size-777%20MB-blue.svg)
+[![](https://img.shields.io/github/watchers/CoolPhilChen/SJTU-Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/watchers)
+[![](https://img.shields.io/github/stars/CoolPhilChen/SJTU-Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/stargazers)
+[![](https://img.shields.io/github/forks/CoolPhilChen/SJTU-Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/network/members)
+![](https://img.shields.io/github/repo-size/CoolPhilChen/SJTU-Courses.svg)
+[![](https://img.shields.io/github/contributors/CoolPhilChen/SJTU-Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/graphs/contributors)
 
 ## 前言
 
