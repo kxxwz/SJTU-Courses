@@ -76,6 +76,7 @@
 - [研究生网上选课信息](http://www.yjs.sjtu.edu.cn:81/epstar/web/outer/KKBJ_CX/kkbj.jsp)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [北大课程资料民间整理](https://github.com/lib-pku/libpku)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ## 联系方式
-sjtucourses@outlook.com
+sjtu.courses@outlook.com
