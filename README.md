@@ -1,6 +1,12 @@
 # 上海交通大学课程分享
 
+[![](https://img.shields.io/badge/watchers-176-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/watchers)
+[![](https://img.shields.io/badge/stars-3k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/stargazers)
+[![](https://img.shields.io/badge/forks-1k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/network/members)
+![](https://img.shields.io/badge/repo%20size-777%20MB-blue.svg)
+
 ## 前言
+
 在大学期间学习一门课程，我们往往需要参考许多资料，这些资料的来源可能是老师的ftp和课程网站、各大搜索引擎、学长学姐等等。有的时候我们能很容易地找到想要的资源，但有的时候花了很大功夫都不一定能找得到。所以，这个平台建立的初衷就是为了让大家更加便捷得获得所需的课程资源。
 
 当我们在决定是否要选择一门课程时，课程名字只能提供很少的信息，教学信息服务网上的课程大纲又几乎都是空白，向学长学姐打听又不是那么的方便；当我们上完一门课时，在上这门课期间收集到的资料往往存在一块硬盘上后就再也没有打开过，在教学信息服务网上对这门课的评价只有自己知道，最后能留给后来者的往往只是校园司令上的几个数字。
