@@ -1,5 +1,10 @@
 # SJTU Course Sharing
 
+[![](https://img.shields.io/badge/watchers-176-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/watchers)
+[![](https://img.shields.io/badge/stars-3k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/stargazers)
+[![](https://img.shields.io/badge/forks-1k+-blue.svg)](https://github.com/CoolPhilChen/SJTU-Courses/network/members)
+![](https://img.shields.io/badge/repo%20size-777%20MB-blue.svg)
+
 ## Preface
 
 We often need to refer to a lot of information during the period in university when study courses. We may get these resources from teachers' FTP, course websites, major search engines, generations of graduates before us and so on. Sometimes, we can obtain the resources we want easily while sometimes not. Therefore, inspired by [Inheritance & SJTU](http://share.sjtu.edu.cn) and [Zhejiang University Course Sharing Program](https://github.com/QSCTech/zju-icicles), I decided to build up such a platform so that we can share and use these course resources freely.
