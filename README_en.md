@@ -20,6 +20,7 @@ We often need to refer to a lot of information during the period in university w
   - CS385 Machine Learning
   - EI331 Signals and Systems
   - EI332 Computer Composition
+  - EI333 Software Engineering
   - EI338 Computer System Engineering
   - EI339 Artificial Intelligence
   - SE305 Database Technology
