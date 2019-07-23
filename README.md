@@ -77,6 +77,7 @@
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [北大课程资料民间整理](https://github.com/lib-pku/libpku)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 ## 联系方式
 sjtu.courses@outlook.com
